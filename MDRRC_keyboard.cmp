@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Sunday, 2013 September 29 14:53:57
+
+BeginCmp
+TimeStamp = /5247DEB3;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247DE1A;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247DC1C;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247E729;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247F672;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247E02E;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52473167;
+Reference = IC1;
+ValeurCmp = ATMEGA8-AI;
+IdModule  = TQFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = /52473158;
+Reference = P1;
+ValeurCmp = LCD;
+IdModule  = SIL-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /52473176;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247E156;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247DEC2;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247E934;
+Reference = R2;
+ValeurCmp = 4k7;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247E01F;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247E4A3;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5247E4B2;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /524732F4;
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = RV2;
+EndCmp
+
+EndListe

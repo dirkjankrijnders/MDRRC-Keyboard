@@ -1,2 +1,6 @@
 
 *.bak
+
+*.kicad_pcb-bak
+
+*.lst
