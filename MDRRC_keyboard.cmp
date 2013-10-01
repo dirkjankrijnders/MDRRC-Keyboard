@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Sunday, 2013 September 29 14:53:57
+Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Sunday, 2013 September 29 17:16:17
 
 BeginCmp
 TimeStamp = /5247DEB3;
@@ -25,6 +25,20 @@ BeginCmp
 TimeStamp = /5247E729;
 Reference = C4;
 ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5248428A;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5248427B;
+Reference = C6;
+ValeurCmp = C;
 IdModule  = SM0805;
 EndCmp
 
@@ -71,6 +85,13 @@ IdModule  = SIL-4;
 EndCmp
 
 BeginCmp
+TimeStamp = /52484835;
+Reference = P4;
+ValeurCmp = CONN_4X2;
+IdModule  = pin_array_4x2;
+EndCmp
+
+BeginCmp
 TimeStamp = /5247DEC2;
 Reference = R1;
 ValeurCmp = 10k;
@@ -106,10 +127,24 @@ IdModule  = SM0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /524841BC;
+Reference = R6;
+ValeurCmp = 0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /524732F4;
 Reference = RV1;
 ValeurCmp = 10k;
 IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52484299;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = Crystal_HC49-SD_SMD_RevA_09Aug2010;
 EndCmp
 
 EndListe
