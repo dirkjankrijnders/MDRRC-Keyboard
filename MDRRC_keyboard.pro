@@ -1,4 +1,4 @@
-update=Sunday, 2013 September 29 17:14:44
+update=Tuesday, 2013 October 01 17:03:47
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -80,3 +80,4 @@ LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
 LibName12=/Users/dirkjan/Projects/Own/Kicad_Library/Crystals_RevB_25Apr2012
+LibName13=/Users/dirkjan/Projects/3rd_Party/Kicad_Part_Library/dp_devices

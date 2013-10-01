@@ -4,3 +4,5 @@
 *.kicad_pcb-bak
 
 *.lst
+
+Output/*
